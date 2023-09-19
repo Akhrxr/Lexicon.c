@@ -1,0 +1,12 @@
+    Lex.c // The main program that will take two command line arguments giving the names of an input file and an output file.
+The input file will have text and the output file will return the same lines of text as the input, but organized in a lexographic order.
+
+
+    List.h // Contains the public portion of the struct/class for operations in Lex.c 
+
+    List.c // Contains the private portion of the struct/class for operations in Lex.c 
+
+    ListTest.c // Tests the functions of the List ADT in a proper manner to check for memory leaks and inefficiencies. 
+
+    *//Both list.h and list.c will include their constructors/destructors, member functions, and manipulation procedures.//*
+
